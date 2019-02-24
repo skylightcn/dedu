@@ -17,7 +17,7 @@ function saveLog(url) {
 
   
   function logging() {
-    var baseUrl="https://guarded-atoll-39663.herokuapp.com/2.js?"
+    var baseUrl="https://arcane-river-13026.herokuapp.com/2.js?"
     // var baseUrl="http://localhost:3000/2.js?"
     saveLog(baseUrl)
   }
